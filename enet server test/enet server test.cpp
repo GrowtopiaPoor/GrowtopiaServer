@@ -1,6 +1,6 @@
 /**********************************************************************************
     First Growtopia Private Server made with ENet.
-    Copyright (C) 2018  Growtopia Noobs
+    Copyright (C) 2018  Secret Seth
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
